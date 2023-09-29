@@ -1,7 +1,7 @@
 Package: com.nice2cu1.qmodify
 Name: QQModify
 Version: 0.0.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Description: Modify of QQ
 Maintainer: nice2cu1
 Author: nice2cu1
